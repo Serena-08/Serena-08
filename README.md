@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Serena Fisch </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h2> You need a cup of coffe? </h2>
 
-<img align="right" width=400px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2wzcjhqcmpjNjNjMXdyd3YxaWNsaDl2ZmEzYzF4eGw4c2l1YnBrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14qo2HjUCzlo1q/giphy.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2wzcjhqcmpjNjNjMXdyd3YxaWNsaDl2ZmEzYzF4eGw4c2l1YnBrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14qo2HjUCzlo1q/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px">&nbsp;***About me***
 
