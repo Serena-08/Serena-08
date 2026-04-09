@@ -1,12 +1,12 @@
 <h1 align="center"><b>Hi , I'm Serena Fisch </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img> 
 
-<h2> 🌱 I’m currently learning ... </h2>
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<h2> You need a cup of coffe? </h2>
 
- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img align="right" width=300px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2wzcjhqcmpjNjNjMXdyd3YxaWNsaDl2ZmEzYzF4eGw4c2l1YnBrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14qo2HjUCzlo1q/giphy.gif" />
 
-I'm a software development student. Java and HTML are the programming languages I'm proficient in. I love learning and creating new, productive, innovative, and creative things.
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+I'm a software development student.<br> I love learning and creating new, productive, innovative, and creative things.
 * **I'm interested in web design, Android development, and digital marketing**
 - 🌱 I'm currently learning Java.
 - 👯 I’m eager to collaborate on open-source projects.
